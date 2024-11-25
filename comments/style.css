@@ -1,0 +1,11 @@
+.JSON-Posts{
+    border: 2px solid greenyellow;
+   background-color: bisque;
+   padding: 10px;
+   width: 250px;
+   height: 270px;
+}
+
+.JSON-Posts p{
+    color: blueviolet;
+}
